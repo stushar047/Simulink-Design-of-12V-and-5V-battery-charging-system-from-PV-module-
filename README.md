@@ -1,7 +1,5 @@
 # Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module.
 
-<img src="icon.png" align="right" />
-
 This was group Project done by Me, Nicholas Wirak and Utpal Avro
 
 Solar energy harvested by photovoltaic (PV) cell arrays can be a convenient and accessible
@@ -16,6 +14,8 @@ and then 5 Volts. In doing so, a Maximum Power Point Tracking (MPPT) algorithm a
 associated control circuitry will additionally be utilized for maximal power transfer from PV cells
 to battery elements. The complete system should form a stable, efficient, and self-contained 5
 or 12 Volt battery charger that is safe for the batteries themselves.
+
+<img src="System.png" align="right" />
 
 # Files
 **Simulink File**: This contains the design.<br>
