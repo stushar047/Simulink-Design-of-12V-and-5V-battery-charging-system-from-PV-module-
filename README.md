@@ -1,5 +1,7 @@
 # Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module.
 
+This was group Project done by Me, Nicholas Wirak and Utpal Avro
+
 Solar energy harvested by photovoltaic (PV) cell arrays can be a convenient and accessible
 source of energy. It is increasingly used to augment local energy needs on the grid, as well as
 provide otherwise unattainable electricity off the grid. The energy captured by PV arrays must
@@ -15,4 +17,4 @@ or 12 Volt battery charger that is safe for the batteries themselves.
 
 # Files
 **Simulink File**: This contains the design.<br>
-**Report**: This contains the whole details.
+**EE408_PED_FinalReport_WAT_sv3_combined**: This contains the whole details.
