@@ -1,5 +1,7 @@
 # Simulink-Design-of-12V-and-5V-battery-charging-system-from-PV-module.
 
+<img src="icon.png" align="right" />
+
 This was group Project done by Me, Nicholas Wirak and Utpal Avro
 
 Solar energy harvested by photovoltaic (PV) cell arrays can be a convenient and accessible
